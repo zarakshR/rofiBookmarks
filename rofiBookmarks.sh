@@ -1,5 +1,3 @@
-# TODO: 
-
 BOOKMARKS="$HOME/Code/rofiBookmarks/exampleBookmarks"
 BROWSER="firefox-beta"
 

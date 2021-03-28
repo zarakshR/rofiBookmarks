@@ -33,4 +33,4 @@ to
 
 Additionally, you can remove the line that says,
 `num=$(cat $BOOKMARKS | wc -l)`
-(Do not do this without also editing the "name" as above)
+(Do not do this without also editing "name" as above)
